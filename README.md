@@ -1,28 +1,17 @@
 ## Hi，M1__ is here!
-# Home pages
-cnblogs: https://www.cnblogs.com/M1--1e9                              
-luogu: https://www.luogu.com.cn/user/1109619#main | https://www.luogu.com.cn/user/1109619#article                                     
-Github: https://github.com/M1-Byte | https://github.com/M1-Byte?tab=repositories                             
-Codeforces：https://codeforces.com/profile/M1__?csrf_token=358066c8931ab9e9aa2228390de2d4cd                                
-bilibili：M1__36e1 | https://space.bilibili.com/2041061068?spm_id_from=333.1007.0.0                              
 
-### Links
-OI Wiki：https://oi-wiki.org/                    
-各种板子：https://www.luogu.com/article/6rb56oby#5.01.02                  
-luogu 能力全面提升综合题单：https://www.luogu.com.cn/training/9391#information                       
-骗分导论 好像现在用不着，贴在这里吧）：https://cdn.fzoi.top/upload/user/jz20240202/22092412459151.pdf                      
-LaTeX：https://www.latexlive.com/                   
-缩写查询&仓库地址：https://lab.magiconch.com/nbnhhsh/ | https://github.com/itorr/nbnhhsh           
-World Imagery：https://www.arcgis.com/home/webmap/viewer.html?useExisting=1&layers=10df2279f9684e4a9f6a7f08febac2a9   
-### article：
-https://www.cnblogs.com/M1--1e9/p/18339409                          
-https://www.cnblogs.com/M1--1e9/p/18369626                              
-https://www.cnblogs.com/M1--1e9/p/18503326                                      
-https://www.cnblogs.com/M1--1e9/p/18503334                                   
-https://www.cnblogs.com/M1--1e9/p/18377413                                              
+# [My Blog](https://www.cnblogs.com/M1--1e9)
 
+![](https://v2.jinrishici.com/one.svg?font-size=&spacing=2&color=black)  
 
+[About me](https://www.luogu.com.cn/paste/ooh6nz6e) | [Things](https://www.luogu.com.cn/paste/tbcideyy) | [Links](https://www.luogu.com.cn/paste/e7z9lu8k)|
+[cnblogs](https://www.cnblogs.com/M1--1e9) | [github](https://github.com/M1-Byte) | [BXOI 出题组](https://www.luogu.com.cn/team/87260) | 
+[team](https://www.luogu.com.cn/team/78805#main) | [各种板子](https://www.luogu.com/article/6rb56oby#5.01.02)
+- [OI WIKI](https://oi-wiki.org/string/)
+- [cppreference.com](https://zh.cppreference.com/)
+- [CarYon：CYaRon Yet Another Random Olympic-iNformatics ](https://github.com/luosiwei-cmd/CarYon/wiki)
 
+`ios::sync_with_stdio(0);cin.tie(0);`  
 👶🧒👦👧🧑👱👨🧔👨‍🦰👨‍🦱👨‍🦳👨‍🦲👩👩‍🦰🧑👩‍🦱🧑👩‍🦳🧑👩‍🦲🧑👱‍♀️👱‍♂️🧓👴👵🙍🙍‍♂️🙍‍♀️🙎🙎‍♂️🙎‍♀️🙅🙅‍♂️🙅‍♀️🙆🙆‍♂️🙆‍♀️💁💁‍♂️💁‍♀️🙋🙋‍♂️🙋‍♀️🧏🧏‍♂️🧏‍♀️🙇🙇‍♂️🙇‍♀️🤦‍♂️🤦‍♀️🤷‍♀️👨‍⚕️👩‍⚕️👨‍🎓👩‍🎓🧑‍🏫
  
 😀😃😄😁😆😅🤣😂🙂🙃😉😊😇🥰😍🤩😘😚😙😋😛😜🤪😝🤑🤗🤭🤫🤔🤐🤨😐😑😶😏😒🙄😬🤥😌😔😪🤤😴😷🤒🤕🤢🤮🤧🥵🥶🥴😵🤯🤠🥳😎🤓🧐😕😟🙁☹️😮😯😲😳🥺😦😧😨😰😥😢😭😱😖😣😞😓😩😫🥱😤😡😠🤬
